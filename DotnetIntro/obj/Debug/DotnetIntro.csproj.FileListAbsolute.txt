@@ -1,0 +1,6 @@
+c:\users\sreejith\documents\visual studio 2015\Projects\DotnetIntro\DotnetIntro\bin\Debug\DotnetIntro.exe.config
+c:\users\sreejith\documents\visual studio 2015\Projects\DotnetIntro\DotnetIntro\obj\Debug\DotnetIntro.csprojResolveAssemblyReference.cache
+c:\users\sreejith\documents\visual studio 2015\Projects\DotnetIntro\DotnetIntro\bin\Debug\DotnetIntro.exe
+c:\users\sreejith\documents\visual studio 2015\Projects\DotnetIntro\DotnetIntro\bin\Debug\DotnetIntro.pdb
+c:\users\sreejith\documents\visual studio 2015\Projects\DotnetIntro\DotnetIntro\obj\Debug\DotnetIntro.exe
+c:\users\sreejith\documents\visual studio 2015\Projects\DotnetIntro\DotnetIntro\obj\Debug\DotnetIntro.pdb
